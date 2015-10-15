@@ -1,0 +1,21 @@
+{
+    "name": "liv/yii2-visural",
+    "description": "visural",
+    "type": "yii2-extension",
+    "keywords": ["visural"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "liv",
+            "email": "vis-ural@list.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "liv\\visural\\": ""
+        }
+    }
+}
